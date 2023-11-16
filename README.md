@@ -9,4 +9,5 @@ The dataset was collected from Maven analytics to analyze the customer churn of 
 7) What is the customer profile for a customer that churned, joined, and stayed? Are they different?
 8) What seem to be the key drivers of customer churn?
 9) Is the company losing high value customers? If so, how can they retain them?
+
 My analysis could be a great use for the marketing and sales department which will help them to decide the perfect strategy to implement in the future.
